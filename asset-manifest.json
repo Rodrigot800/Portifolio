@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Rodrigot800.github.io/Portifolio/static/css/main.611eca81.css",
-    "main.js": "/Rodrigot800.github.io/Portifolio/static/js/main.7ee780e6.js",
-    "static/js/453.195f25b5.chunk.js": "/Rodrigot800.github.io/Portifolio/static/js/453.195f25b5.chunk.js",
+    "main.js": "/Rodrigot800.github.io/Portifolio/static/js/main.ffce5835.js",
+    "static/js/453.1407b060.chunk.js": "/Rodrigot800.github.io/Portifolio/static/js/453.1407b060.chunk.js",
     "static/media/estudo.png": "/Rodrigot800.github.io/Portifolio/static/media/estudo.272226d0fe61455da613.png",
     "static/media/foto.png": "/Rodrigot800.github.io/Portifolio/static/media/foto.f0a9fd08d77a03c3bb62.png",
     "static/media/programador.png": "/Rodrigot800.github.io/Portifolio/static/media/programador.b5e68571c6006c68bad2.png",
@@ -15,11 +15,11 @@
     "static/media/github.png": "/Rodrigot800.github.io/Portifolio/static/media/github.c61d4b348b68f0a7b730.png",
     "index.html": "/Rodrigot800.github.io/Portifolio/index.html",
     "main.611eca81.css.map": "/Rodrigot800.github.io/Portifolio/static/css/main.611eca81.css.map",
-    "main.7ee780e6.js.map": "/Rodrigot800.github.io/Portifolio/static/js/main.7ee780e6.js.map",
-    "453.195f25b5.chunk.js.map": "/Rodrigot800.github.io/Portifolio/static/js/453.195f25b5.chunk.js.map"
+    "main.ffce5835.js.map": "/Rodrigot800.github.io/Portifolio/static/js/main.ffce5835.js.map",
+    "453.1407b060.chunk.js.map": "/Rodrigot800.github.io/Portifolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.611eca81.css",
-    "static/js/main.7ee780e6.js"
+    "static/js/main.ffce5835.js"
   ]
 }
