@@ -1,0 +1,362 @@
+@font-face {
+  font-family: Pixeled;
+  src: url(fonts/VCR_OSD_MONO_1.001.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+*{
+  font-family: Pixeled;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+:root{
+  --cor-1:#240046;
+  --cor1:#03045e;
+  --cor2:#023e8a;
+  --cor3:#0077b6;
+  --cor4:#00b4d8;
+  --cor5:#90e0ef;
+}
+html,body{
+  background-color: #03045e;
+}
+.aprh2{
+  padding: 25px;
+  font-size: 2em;
+  color: white;
+}
+.ali{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+#apresentação_perfil2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  line-height: 1.25em;
+}
+h2{
+  padding: 10px;
+}
+header{
+  position: fixed;
+  top: 0;
+  background-color:rgb(255, 255, 255);
+  width: 99.9%;
+  z-index: 1;
+}
+#menu{
+  display: block;
+  width: 10vw;
+  font-size: 2.5em;
+  position: relative;
+  right: 15vw;
+  
+}
+
+#menu:hover{
+  cursor: pointer;
+}
+nav{
+  box-shadow: 1px 5px 5px var(--cor-1);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+#navimg1{
+  width: 50px;
+  height: auto;
+  position: relative;
+  left: 10vw;
+}
+menu{
+  display: none;
+  text-align: center;
+}
+#itens > ul > li > a{
+  display: block;
+  list-style: none;
+  font-size: 1.5em;
+  color: black;
+  text-decoration: none;
+  background-color: azure;
+  padding: 10px;
+  border: 1px solid black;
+}
+#itens > ul > li > a:hover{
+  background-color: var(--cor4);
+}
+main{
+  display: block;
+  width: 100%;
+  color: white;
+  padding-top: 100px;
+  font-family: pi;
+  line-height: 1.5em;
+}
+#p1{
+  background-image: linear-gradient(to top left, var(--cor-1),50%, var(--cor2));
+  color: white;
+  padding-top: 100px;
+  padding-bottom: 40px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+#imagemPerfil{
+  border-radius: 50%;
+  width: 150px;
+  height: auto;
+  margin: 2px;
+}
+#apresentação1{
+  margin: auto;
+  background-color: #24004630;
+  text-align: center;
+  padding: 10px;  
+  border-radius: 10px;
+  width: 90%;
+  max-width: 800px;
+  
+}
+.imagem1{
+  display: block;
+  margin: auto;
+  width: 90vw;
+  max-width: 350px;
+  height: auto;
+  transition: transform 4s ;
+  transform: translate(-10px,-20px);
+
+}
+#p2{
+  background-image: linear-gradient(to top right, var(--cor2),50%, var(--cor-1)); 
+  color: white;
+}
+#apresentação2{
+  display: block;
+  width: 90%;
+  max-width: 800px;
+  margin: auto;
+  padding: 50px;
+  padding-top: 50px;
+  border-radius: 10px;
+  text-align: center ;    
+  background-color: #03045e30;
+}
+#img2{
+  display: block;
+  margin: auto;
+  width: 90vw;
+  height: auto;
+  transition: transform 4s ;
+  transform: translate(-10px,-20px);
+}
+#p3{
+  background-image: linear-gradient(to bottom right, var(--cor2),50%, var(--cor-1));
+  padding-top: 50px;
+  color: white;
+}
+#apresentação3{
+  display: block;
+  width: 90%;
+  max-width: 800px;
+  margin: auto;
+  height: 100%;
+  padding-bottom: 100px;
+  padding-top: 50px;
+  border-radius: 10px;
+  background-color: #03045e30;
+  text-align: center;
+}
+.alinhamento{
+  display: flex;
+  justify-content: center;
+  row-gap: 15px;
+  column-gap: 15px;
+  flex-wrap: wrap;
+}
+.text_conhecimentos{
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+}
+.imgcnc{    
+  display:inline-block;
+  background-color: white;
+  width: 90px;
+  border-radius: 10px;
+  box-shadow: 2px 5px 5px var(--cor4);
+  padding: 5px;
+}
+.imgcnc:hover{
+  background-color: lightskyblue;
+  transform: translate(0px, -10px);
+}
+.imgi{
+  display: block;
+  width: 80px;
+  height: auto;
+}
+#imgcode>h3{
+  margin-bottom: 20px;
+}
+#p4{
+  background-image: linear-gradient(to top right, var(--cor2),50%, var(--cor-1));
+  padding: 50px 0px 50px 0px;
+  line-height: 1em;
+}
+#apresentação4{
+  display: block;
+  width: 90%;
+  max-width: 800px;
+  padding-top: 30px ;
+  padding-bottom: 20px;
+  margin: auto;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #03045e50;
+}
+.projet{
+  background-color: #fff;
+  width: 270px;
+  height: 400px;
+  position: relative;
+  border-radius: 10px;
+  box-shadow: 3px 5px 5px  var(--cor4);
+}
+.projet:hover{
+  transform: translate(0px,-10px) ;
+  transition: 1s;
+}
+.alinhamento-1{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  row-gap: 20px;
+}
+.alinhamento-1 a{
+  text-decoration: none;
+}
+.imgprojet{
+  background-color: #0ff;
+  background-position: center center;
+  background-repeat: no-repeat;
+  padding-top: 10px;
+  margin: auto;
+  width: 100%;
+  height: 250px;
+  border-radius: 10px 10px 0px 0px;
+}
+
+#textp1{
+  color: black; 
+  margin-bottom: 10px;
+}
+#text > h2{
+  text-align: center;
+}
+.visualização-do-projeto{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: var(--cor4);
+  height: 2em;
+  width: 80%;
+  margin: auto;
+  border-radius: 15px;
+  margin-top: 10%;
+  box-shadow: 2px 2px 2px var(--cor4);
+}
+.conteineimg{
+  padding-bottom: 300px;
+}
+
+#imagem2{
+  margin: auto;
+  margin: 50px 0px 0px 10px;
+  padding: 10px;
+  width: 300px;
+  height: auto;
+}
+.button{
+  display: flex;
+  justify-content: center;
+  background-color: var(--cor4);
+  border: none;
+  border-radius: 10px;
+  padding: 15px;
+  font-size: 1.5em;
+  margin: auto;
+  margin-bottom: 30px;
+  box-shadow: 2px 5px 5px var(--cor3);
+}
+.button:hover{
+  background-color: var(--cor5);
+}
+.button > a{
+  text-decoration: none;
+  color: #fff;
+}
+footer{
+  background-color:var(--cor5);
+  color: black;
+  padding-top: 20px;
+  height: 150px;
+}
+footer h2{
+  text-align: center  ;
+}
+.conti{
+  background-color: #fff;
+  width: 60px;
+  border-radius: 30%;
+  box-shadow: 1px 1px 1px 1px  var(--cor-1) ;
+  padding: 3px;
+  text-align: center;
+}
+.alinhamento-2{
+  display: flex;
+  justify-content: center;
+  column-gap: 10px;
+}
+.conimg{
+  width: 50px;
+  height: auto;
+}
+
+@media screen and (min-width: 600px){
+  .projet{
+      margin: 20px;
+  }
+  #menu{
+      margin: 0;
+      right: 10vw;
+  }
+  #apresentação_perfil2{
+      font-size: 2em;
+  }
+  
+  
+}
+@media screen and (min-width: 1000px) {
+  *{
+      font-size: 1em;
+  }
+  #navimg1{
+      left: 5vw;
+  }
+  #menu{
+      right: -2vw;
+  }
+  h2{
+      font-size: 1.2em;
+  }
+  #contato>h2{
+      font-size: 2em;
+  }
+}
