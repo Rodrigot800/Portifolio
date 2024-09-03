@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Portifolio/static/css/main.863246a8.css",
-    "main.js": "/Portifolio/static/js/main.cfb724b1.js",
+    "main.js": "/Portifolio/static/js/main.499fba48.js",
     "static/js/453.69f3745b.chunk.js": "/Portifolio/static/js/453.69f3745b.chunk.js",
     "static/media/estudo.png": "/Portifolio/static/media/estudo.272226d0fe61455da613.png",
     "static/media/foto.png": "/Portifolio/static/media/foto.f0a9fd08d77a03c3bb62.png",
     "static/media/programador.png": "/Portifolio/static/media/programador.b5e68571c6006c68bad2.png",
     "static/media/insta.png": "/Portifolio/static/media/insta.589abff3145cc9b21c4e.png",
     "static/media/VCR_OSD_MONO_1.001.ttf": "/Portifolio/static/media/VCR_OSD_MONO_1.001.10cf96d54dcd9af0486c.ttf",
-    "static/media/Curriculo - Rodrigo-Peixotos.pdf": "/Portifolio/static/media/Curriculo - Rodrigo-Peixotos.732234baca9c4c3fc1b5.pdf",
+    "static/media/Curriculo - Rodrigo-Peixotos.pdf": "/Portifolio/static/media/Curriculo - Rodrigo-Peixotos.0216dc31745f38b87e8b.pdf",
     "static/media/software-development.png": "/Portifolio/static/media/software-development.181fa76f810501d01f77.png",
     "static/media/zap.png": "/Portifolio/static/media/zap.d85855f29ef0da9bf6fc.png",
     "static/media/likedin.png": "/Portifolio/static/media/likedin.a55d9d4b6adbc3e240b5.png",
     "static/media/github.png": "/Portifolio/static/media/github.c61d4b348b68f0a7b730.png",
     "index.html": "/Portifolio/index.html",
     "main.863246a8.css.map": "/Portifolio/static/css/main.863246a8.css.map",
-    "main.cfb724b1.js.map": "/Portifolio/static/js/main.cfb724b1.js.map",
+    "main.499fba48.js.map": "/Portifolio/static/js/main.499fba48.js.map",
     "453.69f3745b.chunk.js.map": "/Portifolio/static/js/453.69f3745b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.863246a8.css",
-    "static/js/main.cfb724b1.js"
+    "static/js/main.499fba48.js"
   ]
 }
