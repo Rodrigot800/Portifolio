@@ -41,7 +41,7 @@ function Apresentação3() {
             }
           >
             <IconesDescrição
-              imgIcone="https://github.com/Rodrigot800/My-Portifolio_2.0_React/blob/master/src/imagens/kotlin-logo.png?raw=true"
+              imgIcone="https://github.com/Rodrigot800/Portifolio/blob/main/src/imagens/kotlin-logo.png?raw=true"
               descriçãoIcone="Kotlin"
             />
           </div>
@@ -56,7 +56,7 @@ function Apresentação3() {
             }
           >
             <IconesDescrição
-              imgIcone="https://github.com/Rodrigot800/My_Portfolio/blob/main/imagem/html.png?raw=true"
+              imgIcone="https://github.com/Rodrigot800/Portifolio/blob/main/src/imagens/html.png?raw=true"
               descriçãoIcone="HTML"
             />
           </div>
@@ -72,7 +72,7 @@ function Apresentação3() {
             }
           >
             <IconesDescrição
-              imgIcone="https://github.com/Rodrigot800/My_Portfolio/blob/main/imagem/ccs3.png?raw=true"
+              imgIcone="https://github.com/Rodrigot800/Portifolio/blob/main/src/imagens/ccs3.png?raw=true"
               descriçãoIcone="CSS"
             />
           </div>
@@ -87,7 +87,7 @@ function Apresentação3() {
             }
           >
             <IconesDescrição
-              imgIcone="https://github.com/Rodrigot800/My_Portfolio/blob/main/imagem/javascript.png?raw=true"
+              imgIcone="https://github.com/Rodrigot800/Portifolio/blob/main/src/imagens/javascript.png?raw=true"
               descriçãoIcone="JS"
             />
           </div>
@@ -103,7 +103,7 @@ function Apresentação3() {
             }
           >
             <IconesDescrição
-              imgIcone="https://github.com/Rodrigot800/My-Portifolio_2.0_React/blob/master/src/imagens/ReactLogo.png?raw=true"
+              imgIcone="https://github.com/Rodrigot800/Portifolio/blob/main/src/imagens/ReactLogo.png?raw=true"
               descriçãoIcone="React"
             />
           </div>
@@ -118,7 +118,7 @@ function Apresentação3() {
             }
           >
             <IconesDescrição
-              imgIcone="https://github.com/Rodrigot800/My_Portfolio/blob/main/imagem/git.png?raw=true"
+              imgIcone="https://github.com/Rodrigot800/Portifolio/blob/main/src/imagens/git.png?raw=true"
               descriçãoIcone="Git"
             />
           </div>
@@ -134,7 +134,7 @@ function Apresentação3() {
             }
           >
             <IconesDescrição
-              imgIcone="https://github.com/Rodrigot800/My_Portfolio/blob/main/imagem/github.png?raw=true"
+              imgIcone="https://github.com/Rodrigot800/Portifolio/blob/main/src/imagens/github.png?raw=true"
               descriçãoIcone="GitHub"
             />
           </div>
